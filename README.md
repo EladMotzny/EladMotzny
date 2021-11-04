@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; B.Sc in Computer Science.
 - 💼 &nbsp; Software and automation developer.
-- 🌱 &nbsp; Fullstack developer in my free time.
+- 🌱 &nbsp; Learning fullstack development in my free time.
 
 <h3> 🧰 Tech Stack </h3>
 
