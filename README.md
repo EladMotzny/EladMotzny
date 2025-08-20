@@ -18,23 +18,13 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 💼 &nbsp; Fullstack Software Developer
 - 🎓 &nbsp; B.Sc in Computer Science.
-- 💼 &nbsp; Software and automation developer.
-- 🌱 &nbsp; Learning fullstack development in my free time.
+- 🌱 &nbsp; Learning new frameworks and building awesome websites on my free time
 
 <h3> 🧰 Tech Stack </h3>
 
- - 🖥️ &nbsp;   Python | Java | C#
- - 🌐 &nbsp;   HTML | CSS | JavaScript | React.JS
- - 🗄️ &nbsp;    Flask | Firebase | SQL
- - 🔧 &nbsp;   Visual Studio Code | Git | Linux | Unity
- 
-<h3> 💻 Selected Projects </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EladMotzny&repo=react-task-tracker)](https://github.com/EladMotzny/react-task-tracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EladMotzny&repo=Flask-Blog)](https://github.com/EladMotzny/Flask-Blog)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EladMotzny&repo=Todo-List)](https://github.com/EladMotzny/Todo-List)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EladMotzny&repo=Sudoku-Solver)](https://github.com/EladMotzny/Sudoku-Solver)
+ - 🖥️ &nbsp;   Java | Python
+ - 🌐 &nbsp;   Angular.JS | Next.JS | React.JS
+ - 🗄️ &nbsp;   MariaDB | MySQL
+ - 🔧 &nbsp;   Git | Linux
