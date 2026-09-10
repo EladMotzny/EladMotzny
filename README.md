@@ -28,5 +28,3 @@ Here are some ideas to get you started:
  - 🌐 &nbsp;   React | Next | Typescript | Angular  
  - 🗄️ &nbsp;   Postgresql | MySQL | MariaDB
  - 🔧 &nbsp;   Git | Linux
-
-[My Resume](https://github.com/user-attachments/files/22292880/Elad_Motzny_CV.pdf)
