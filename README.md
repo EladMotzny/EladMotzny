@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <h3> 🧰 Tech Stack </h3>
 
  - 🖥️ &nbsp;   Java | Python
- - 🌐 &nbsp;   Angular.JS | Next.JS | React.JS
- - 🗄️ &nbsp;   MariaDB | MySQL
+ - 🌐 &nbsp;   React | Next | Typescript | Angular  
+ - 🗄️ &nbsp;   Postgresql | MySQL | MariaDB
  - 🔧 &nbsp;   Git | Linux
 
 [My Resume](https://github.com/user-attachments/files/22292880/Elad_Motzny_CV.pdf)
